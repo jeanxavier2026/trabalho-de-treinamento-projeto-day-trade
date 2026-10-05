@@ -2,7 +2,7 @@
 
 Este projeto consiste num sistema prático desenvolvido para registar, organizar e analisar operações diárias nos mercados financeiros de ações e criptomoedas. A aplicação auxilia o investidor a gerir o seu risco diário, calculando automaticamente os lucros e as perdas de cada operação efetuada. Através desta ferramenta, é possível evitar erros emocionais e manter um histórico detalhado e consistente de toda a atividade de negociação.
 
-![Gráfico de Finanças](https://unsplash.com)
+![Gráfico de Finanças](123456789.jpeg)
 
 
 ##  Tecnologias Utilizadas
